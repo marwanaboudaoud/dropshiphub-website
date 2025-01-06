@@ -1,0 +1,16 @@
+{
+    "features": {
+        "composableCommerce": {
+            "title": "Composable commerce",
+            "description": "Integreer naadloos met verschillende bronnen en verkoopkanalen en optimaliseer je voorraad en fulfillment-strategie zodat je snel kunt inspelen op veranderingen, zonder gebonden te zijn aan monolithische, inflexibele platforms."
+        },
+        "dataMerging": {
+            "title": "Powerful data merging",
+            "description": "Combineer data uit diverse bronnen om het beste productaanbod te creëren. Optimaliseer je assortiment met actuele voorraad- en prijsinformatie, verbeter levertijden en blijf je concurrenten voor. Bied klanten altijd het meest aantrekkelijke, betrouwbare aanbod en levertijd volgens eigen ingestelde regels."
+        },
+        "orderRouting": {
+            "title": "Order routing",
+            "description": "Automatiseer en optimaliseer je orderverwerking met slimme order routing. Stuur bestellingen automatisch naar de beste leverancier of magazijn op basis van voorraad, marge en/of levertijd. Verlaag (verzend)kosten, versnel levertijden en verhoog je operationele efficiëntie, klanttevredenheid én marges."
+        }
+    }
+}

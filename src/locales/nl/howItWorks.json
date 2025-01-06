@@ -1,0 +1,25 @@
+{
+    "title": "Hoe Dropshiphub werkt",
+    "steps": {
+        "products": {
+            "title": "Producten",
+            "description": "Productinformatie uit backoffice-, warehousing- en fulfilmentsystemen"
+        },
+        "dataMerging": {
+            "title": "Data merging",
+            "description": "Combineer en optimaliseer je aanbod"
+        },
+        "orders": {
+            "title": "Orders",
+            "description": "Centraal inzicht in inkomende en doorgeplaatste (sub-)orders"
+        },
+        "orderRouting": {
+            "title": "Order routing",
+            "description": "Automatische (sub-)order splitsing zet alle informatie door voor uitlevering"
+        },
+        "sending": {
+            "title": "Verzendingen",
+            "description": "(Deel-)verzendingen worden terug gecommuniceerd naar het order platform"
+        }
+    }
+}

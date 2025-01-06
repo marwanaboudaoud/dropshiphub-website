@@ -1,0 +1,10 @@
+{
+    "helpCenter": {
+        "title": "Heeft u een vraag? Neem contact op!",
+        "description": "Begin met Tailwind CSS dat alles kan bieden wat u nodig heeft om bewustzijn te genereren, verkeer te genereren, te verbinden.",
+        "button": {
+            "text": "Contact",
+            "icon": "uil uil-phone"
+        }
+    }
+}

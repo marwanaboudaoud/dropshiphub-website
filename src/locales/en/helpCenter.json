@@ -1,0 +1,56 @@
+{
+    "hero": {
+        "title": "Hello! How can we help you?",
+        "searchPlaceholder": "Search your questions or topic..."
+    },
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Help Center"
+    },
+    "mainSection": {
+        "title": "Find The Help You Need",
+        "description": "Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect."
+    },
+    "helpOptions": [
+        {
+            "icon": "help-circle",
+            "name": "FAQs",
+            "desc": "The phrasal sequence of the is now so that many campaign and benefit",
+            "to": "/helpcenter-faqs",
+            "cta": "Read More"
+        },
+        {
+            "icon": "bookmark",
+            "name": "Guides / Support",
+            "desc": "The phrasal sequence of the is now so that many campaign and benefit",
+            "to": "/helpcenter-guides",
+            "cta": "Read More"
+        }
+    ],
+    "getStarted": {
+        "title": "Get Started",
+        "description": "Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.",
+        "items": [
+            {
+                "name": "How our",
+                "name2": "Techwind",
+                "name3": "work?",
+                "desc": "Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts."
+            },
+            {
+                "name": "What is the main process open account?",
+                "desc": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact."
+            },
+            {
+                "name": "How to make unlimited data entry?",
+                "desc": "Furthermore, it is advantageous when the dummy text is relatively realistic so that the layout impression of the final publication is not compromised."
+            },
+            {
+                "name": "Is",
+                "name2": "Techwind",
+                "name3": "safer to use with my account?",
+                "desc": "The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin language which more or less corresponds to 'proper' Latin."
+            }
+        ]
+    }
+}

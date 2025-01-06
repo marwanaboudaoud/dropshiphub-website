@@ -1,0 +1,22 @@
+{
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcentrum",
+        "guides": "Handleidingen"
+    },
+    "content": {
+        "metadata": {
+            "client": "Klant:",
+            "date": "Datum:",
+            "readTime": "Tijd:"
+        },
+        "clientName": "Calvin Carlo",
+        "date": "23 mei 2022",
+        "readTime": "8 min leestijd",
+        "mainText": {
+            "paragraph1": "De meest bekende dummytekst is de 'Lorem Ipsum', die zou zijn ontstaan in de 16e eeuw. Lorem Ipsum is samengesteld in een pseudo-Latijnse taal die min of meer overeenkomt met 'echt' Latijn. Het bevat een reeks echte Latijnse woorden. Deze oude dummytekst is ook onbegrijpelijk, maar bootst het ritme na van de meeste Europese talen in Latijns schrift.",
+            "quote": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan, door ingevoegde humor of willekeurige woorden die niet eens geloofwaardig lijken.",
+            "paragraph2": "Het voordeel van de Latijnse oorsprong en de betrekkelijke betekenisloosheid van Lorem Ipsum is dat de tekst geen aandacht op zichzelf vestigt of de aandacht van de kijker afleidt van de layout."
+        }
+    }
+}

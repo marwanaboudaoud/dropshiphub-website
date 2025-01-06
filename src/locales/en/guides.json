@@ -1,0 +1,75 @@
+{
+    "pageTitle": "Guides & Support",
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcenter",
+        "guides": "Guides"
+    },
+    "categories": [
+        {
+            "title": "Getting started",
+            "features": [
+                "Deciding to purchase",
+                "List your space",
+                "Landing an experience or adventure",
+                "Top uses questions"
+            ]
+        },
+        {
+            "title": "Your calendar",
+            "features": [
+                "Pricing & availability",
+                "Booking settings",
+                "Responding to enquiries & requests",
+                "Snoozing or deactivating your listing"
+            ]
+        },
+        {
+            "title": "Your listings",
+            "features": [
+                "Updating your listing",
+                "Neighbourhoods",
+                "Listing photos & photography",
+                "Techwind Plus",
+                "API-connected software"
+            ]
+        },
+        {
+            "title": "How payouts work",
+            "features": [
+                "Getting paid",
+                "Adding payout info",
+                "Your payout status",
+                "Donations",
+                "Taxes"
+            ]
+        },
+        {
+            "title": "Your reservations",
+            "features": [
+                "Techwind safely",
+                "Techwind Experiences and Adventures",
+                "Changing a reservation",
+                "Cancelling a reservation",
+                "Long-term reservations"
+            ]
+        },
+        {
+            "title": "Reservation help",
+            "features": [
+                "Help with a reservation or guest",
+                "Guest cancellations"
+            ]
+        },
+        {
+            "title": "Your account",
+            "features": [
+                "Your profile",
+                "Account security",
+                "Identification & verifications",
+                "Reviews",
+                "Superhost status"
+            ]
+        }
+    ]
+}

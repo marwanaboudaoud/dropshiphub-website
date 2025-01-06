@@ -1,0 +1,26 @@
+/* // _general.scss */
+
+/*********************************/
+/*             General            */
+/*===============================*/
+p {
+    @apply leading-relaxed;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    @apply leading-normal;
+}
+
+::selection {
+    @apply bg-dropshiphub-primary-500/90 text-white;
+}
+
+body {
+    @apply font-nunito
+}
+
+
+  ul li:first-child{
+    -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+  }

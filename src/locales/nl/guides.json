@@ -1,0 +1,75 @@
+{
+    "pageTitle": "Handleidingen & Ondersteuning",
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcentrum",
+        "guides": "Handleidingen"
+    },
+    "categories": [
+        {
+            "title": "Aan de slag",
+            "features": [
+                "Beslissen om te kopen",
+                "Uw ruimte aanbieden",
+                "Een ervaring of avontuur landen",
+                "Veel gestelde vragen"
+            ]
+        },
+        {
+            "title": "Uw kalender",
+            "features": [
+                "Prijzen & beschikbaarheid",
+                "Boekingsinstellingen",
+                "Reageren op vragen & verzoeken",
+                "Uw advertentie pauzeren of deactiveren"
+            ]
+        },
+        {
+            "title": "Uw advertenties",
+            "features": [
+                "Uw advertentie bijwerken",
+                "Buurten",
+                "Advertentiefoto's & fotografie",
+                "Techwind Plus",
+                "API-gekoppelde software"
+            ]
+        },
+        {
+            "title": "Hoe uitbetalingen werken",
+            "features": [
+                "Uitbetaald worden",
+                "Uitbetalingsgegevens toevoegen",
+                "Uw uitbetalingsstatus",
+                "Donaties",
+                "Belastingen"
+            ]
+        },
+        {
+            "title": "Uw reserveringen",
+            "features": [
+                "Techwind veilig",
+                "Techwind Ervaringen en Avonturen",
+                "Een reservering wijzigen",
+                "Een reservering annuleren",
+                "Langetermijnreserveringen"
+            ]
+        },
+        {
+            "title": "Reserveringshulp",
+            "features": [
+                "Hulp bij een reservering of gast",
+                "Gastannuleringen"
+            ]
+        },
+        {
+            "title": "Uw account",
+            "features": [
+                "Uw profiel",
+                "Accountbeveiliging",
+                "Identificatie & verificaties",
+                "Beoordelingen",
+                "Superhost-status"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "hero": {
+        "title": "Hallo! Hoe kunnen we u helpen?",
+        "searchPlaceholder": "Zoek uw vragen of onderwerp..."
+    },
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcentrum"
+    },
+    "mainSection": {
+        "title": "Vind de hulp die u nodig heeft",
+        "description": "Begin met Tailwind CSS dat alles kan bieden wat u nodig heeft om bewustzijn te genereren, verkeer te genereren, te verbinden."
+    },
+    "helpOptions": [
+        {
+            "icon": "help-circle",
+            "name": "FAQ's",
+            "desc": "De zinsopbouw is nu zo dat veel campagne en voordeel",
+            "to": "/helpcenter-faqs",
+            "cta": "Lees meer"
+        },
+        {
+            "icon": "bookmark",
+            "name": "Handleidingen / Ondersteuning",
+            "desc": "De zinsopbouw is nu zo dat veel campagne en voordeel",
+            "to": "/helpcenter-guides",
+            "cta": "Lees meer"
+        }
+    ],
+    "getStarted": {
+        "title": "Aan de slag",
+        "description": "Begin met Tailwind CSS dat alles kan bieden wat u nodig heeft om bewustzijn te genereren, verkeer te genereren, te verbinden.",
+        "items": [
+            {
+                "name": "Hoe werkt",
+                "name2": "Techwind",
+                "name3": "?",
+                "desc": "Vanwege het wijdverbreide gebruik als opvultekst voor layouts is leesbaarheid van groot belang: menselijke perceptie is afgestemd op het herkennen van bepaalde patronen en herhalingen in teksten."
+            },
+            {
+                "name": "Wat is het hoofdproces voor het openen van een account?",
+                "desc": "Als de verdeling van letters en 'woorden' willekeurig is, wordt de lezer niet afgeleid bij het maken van een neutraal oordeel over de visuele impact."
+            },
+            {
+                "name": "Hoe maak je onbeperkte gegevensinvoer?",
+                "desc": "Bovendien is het voordelig wanneer de dummytekst relatief realistisch is, zodat de lay-outindruk van de uiteindelijke publicatie niet in gevaar komt."
+            },
+            {
+                "name": "Is",
+                "name2": "Techwind",
+                "name3": "veiliger om te gebruiken met mijn account?",
+                "desc": "De meest bekende dummytekst is de 'Lorem Ipsum', die zou zijn ontstaan in de 16e eeuw. Lorem Ipsum is samengesteld in een pseudo-Latijnse taal die min of meer overeenkomt met 'echt' Latijn."
+            }
+        ]
+    }
+}

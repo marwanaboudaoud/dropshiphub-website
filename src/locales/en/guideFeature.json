@@ -1,0 +1,22 @@
+{
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcenter",
+        "guides": "Guides"
+    },
+    "content": {
+        "metadata": {
+            "client": "Client:",
+            "date": "Date:",
+            "readTime": "Time:"
+        },
+        "clientName": "Calvin Carlo",
+        "date": "23th May, 2022",
+        "readTime": "8 Min Read",
+        "mainText": {
+            "paragraph1": "The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin language which more or less corresponds to 'proper' Latin. It contains a series of real Latin words. This ancient dummy text is also incomprehensible, but it imitates the rhythm of most European languages in Latin script.",
+            "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "paragraph2": "The advantage of its Latin origin and the relative meaninglessness of Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's attention from the layout."
+        }
+    }
+}

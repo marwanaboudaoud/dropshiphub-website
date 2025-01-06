@@ -1,0 +1,25 @@
+{
+    "title": "How Dropshiphub Works",
+    "steps": {
+      "products": {
+        "title": "Products",
+        "description": "Product information from back office, warehousing and fulfillment systems"
+      },
+      "dataMerging": {
+        "title": "Data Merging",
+        "description": "Combine and optimize your offering"
+      },
+      "orders": {
+        "title": "Orders",
+        "description": "Central insight into incoming and forwarded (sub-)orders"
+      },
+      "orderRouting": {
+        "title": "Order Routing",
+        "description": "Automatic (sub-)order splitting forwards all information for delivery"
+      },
+      "sending": {
+        "title": "Shipments",
+        "description": "(Partial) shipments are communicated back to the order platform"
+      }
+    }
+  }

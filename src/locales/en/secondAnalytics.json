@@ -1,0 +1,16 @@
+{
+    "features": {
+        "composableCommerce": {
+          "title": "Composable commerce",
+          "description": "Seamlessly integrate with various sources and sales channels and optimize your inventory and fulfillment strategy so you can quickly respond to changes, without being tied to monolithic, inflexible platforms."
+        },
+        "dataMerging": {
+          "title": "Powerful data merging",
+          "description": "Combine data from various sources to create the best product offering. Optimize your assortment with current stock and price information, improve delivery times and stay ahead of your competitors. Always offer customers the most attractive, reliable offer and delivery time according to your own set rules."
+        },
+        "orderRouting": {
+          "title": "Order routing",
+          "description": "Automate and optimize your order processing with smart order routing. Automatically send orders to the best supplier or warehouse based on stock, margin and/or delivery time. Reduce (shipping) costs, speed up delivery times and increase your operational efficiency, customer satisfaction and margins."
+        }
+    }        
+}

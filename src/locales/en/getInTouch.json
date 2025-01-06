@@ -1,0 +1,10 @@
+{
+    "helpCenter": {
+        "title": "Have Question? Get in touch!",
+        "description": "Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.",
+        "button": {
+            "text": "Contact us",
+            "icon": "uil uil-phone"
+        }
+    }
+}

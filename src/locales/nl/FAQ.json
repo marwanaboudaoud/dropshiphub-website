@@ -1,0 +1,131 @@
+{
+    "pageTitle": "Veelgestelde vragen",
+    "pageDescription": "Begin met Tailwind CSS dat alles kan bieden wat u nodig heeft om bewustzijn te genereren, verkeer te genereren, te verbinden.",
+    "breadcrumb": {
+        "home": "Home",
+        "helpcenter": "Helpcentrum",
+        "faqs": "FAQ's"
+    },
+    "categories": {
+        "buying": {
+            "title": "Aankoopvragen",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Hoe werkt het?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 2,
+                    "title": "Heb ik een ontwerper nodig om Techwind te gebruiken?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 3,
+                    "title": "Wat moet ik doen om te beginnen met verkopen?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 4,
+                    "title": "Wat gebeurt er als ik een bestelling ontvang?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                }
+            ]
+        },
+        "general": {
+            "title": "Algemene Vragen",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Hoe werkt het?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 2,
+                    "title": "Heb ik een ontwerper nodig om Techwind te gebruiken?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 3,
+                    "title": "Wat moet ik doen om te beginnen met verkopen?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 4,
+                    "title": "Wat gebeurt er als ik een bestelling ontvang?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 5,
+                    "title": "Hoe werkt het?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 6,
+                    "title": "Heb ik een ontwerper nodig om Techwind te gebruiken?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 7,
+                    "title": "Wat moet ik doen om te beginnen met verkopen?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 8,
+                    "title": "Wat gebeurt er als ik een bestelling ontvang?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                }
+            ]
+        },
+        "payment": {
+            "title": "Betalingsvragen",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Hoe werkt het?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 2,
+                    "title": "Heb ik een ontwerper nodig om Techwind te gebruiken?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 3,
+                    "title": "Wat moet ik doen om te beginnen met verkopen?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 4,
+                    "title": "Wat gebeurt er als ik een bestelling ontvang?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                }
+            ]
+        },
+        "support": {
+            "title": "Ondersteuningsvragen",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Hoe werkt het?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 2,
+                    "title": "Heb ik een ontwerper nodig om Techwind te gebruiken?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 3,
+                    "title": "Wat moet ik doen om te beginnen met verkopen?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                },
+                {
+                    "id": 4,
+                    "title": "Wat gebeurt er als ik een bestelling ontvang?",
+                    "desc": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in enigerlei vorm wijzigingen ondergaan."
+                }
+            ]
+        }
+    }
+}

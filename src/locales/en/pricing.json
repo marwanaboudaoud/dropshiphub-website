@@ -1,0 +1,10 @@
+{
+    "title": "Pricing Plans",
+    "description": "Choose one of our plans to get started with DropshipHub.",
+    "rangerOrders": "Orders per month",
+    "rangerProducts" : "Products",
+    "cardLink": "Per link",
+    "cardMonth": "Per month",
+    "cardButton": "Started Now",
+    "orders":"Orders"
+}
